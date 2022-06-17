@@ -6,6 +6,5 @@
 ## 命令
 
 ```
-bash <(curl -ls https://gitee.com/suiyuehq/ziyong/raw/master/ql_cdn/v2.10.13/bpxf.sh)
+bash <(curl -ls https://github.com/1164844282/qlxf/blob/77bebb22ab7a0aea1137e5a8c024c91c545833fc/ql_cdn/v2.10.13/bpxf.sh)
 ```
-
